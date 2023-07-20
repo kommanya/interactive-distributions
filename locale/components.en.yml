@@ -1,0 +1,16 @@
+en:
+        select: Select a distribution
+        input: Enter the weight of distribution
+        add: Add mixture component
+        clean: clean
+        mean: mean-slider
+        std: std-slider
+        left boundary: left boundary slider
+        right boundary: right boundary slider
+        lambda: lambda-slider
+        shape: shape-slider
+        scale: scale-slider
+        k: k-slider
+        tetta: tetta-slider
+        shift: shift-slider
+    

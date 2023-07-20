@@ -1,0 +1,10 @@
+
+    ru: 
+        norm: Нормальное
+        uniform: Равномерное
+        poisson: Пуассона
+        weibull: Вейбулла
+        gamma: Гамма
+        exp: Экспоненциальное
+        laplace: Лапласа
+        gauss mixture: Гауссова смесь

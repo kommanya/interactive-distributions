@@ -1,0 +1,9 @@
+en: 
+        norm: Normal
+        uniform: Uniform
+        poisson: Poisson
+        weibull: Weibull
+        gamma: Gamma
+        exp: Exponential
+        laplace: Laplace
+        gauss mixture: Gaussian Mixture

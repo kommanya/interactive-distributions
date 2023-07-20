@@ -1,0 +1,18 @@
+en:
+        norm CDF: Normal CDF
+        norm PDF: Normal PDF
+        uniform CDF: Uniform CDF
+        uniform PDF: Uniform PDF
+        poisson CDF: Poisson CDF
+        poisson PDF: Poisson PDF
+        weibull CDF: Weibull CDF
+        weibull PDF: Weibull PDF
+        gamma CDF: Gamma CDF
+        gamma PDF: Gamma PDF
+        exp CDF: Exponential CDF
+        exp PDF: Exponential PDF
+        laplace CDF: Laplace CDF
+        laplace PDF: Laplace PDF
+        gauss mixture CDF: Gaussian mixture CDF
+        gauss mixture PDF: Gaussian mixture PDF
+        title:  Plotting CDF and PDF of distributions
